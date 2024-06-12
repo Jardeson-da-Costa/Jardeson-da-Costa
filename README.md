@@ -49,12 +49,9 @@
 ---
 
 <div align="center">
-  <h3><b>Vistos.👁️‍🗨️</b></h3>
+  <h3><b>Faço parte da Neoclass, um grupo que visa à educação e à tecnologia educacional.</b></h3>
 </div>
-
 <p align="center">
-  <img
-    src="https://profile-counter.glitch.me/Jardeson-da-Costa/count.svg"
-    alt="Número de visitantes no perfil"
-  />
+  <img src="https://github.com/NeoClassOFC/NeoClassOFC/assets/141865461/d09c6f6f-9aca-4e4a-9ff8-f7bff592100c.png" alt="Logo da Neo Class" width="100" style="border-radius: 50%;">
 </p>
+
